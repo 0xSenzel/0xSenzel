@@ -1,5 +1,9 @@
 # 💫 About Me:
-- 👋 Hi, I’m Senzel<br>- 🔭 I’m currently working on Backend Development<br>- 🌱 I’m currently learning Cloud, Containerization technology and Golang<br>- 👯 I’m looking to collaborate on Web3, Backend projects!<br>- 📫 How to reach me: Email me 0xSenzel@gmail.com<br><br>
+- 👋 Hi, I’m Senzel<br>
+- 🔭 I’m currently working on Backend Development<br>
+- 🌱 I’m currently learning Cloud, Containerization technology and Golang<br>
+- 👯 I’m looking to collaborate on Web3, Backend projects!<br>
+- 📫 How to reach me: Email me 0xSenzel@gmail.com<br><br>
 
 
 # 💻 Tech Stack:
