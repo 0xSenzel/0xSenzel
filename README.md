@@ -1,20 +1,43 @@
-# 💫 About Me:
-- 👋 Hi, I’m Senzel<br>
-- 🔭 I’m currently working on Backend Development<br>
-- 🌱 I’m currently learning Cloud, Containerization technology and Golang<br>
-- 👯 I’m looking to collaborate on Web3, Backend projects!<br>
-- 📫 How to reach me: Email me 0xSenzel@gmail.com<br><br>
+# Hi, I'm Shao Qing (Senzel) 👋
 
+Software engineer with 3+ years in full-stack development, now embedded with SEEK. I build AI agent tooling with MCP and backend services in TypeScript and Go. I'm open to Forward Deployed Engineer and AI Engineer roles.
 
-# 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,typescript,js,git,githubactions,azure,postgres,mysql,docker,aws,kubernetes,solidity,linux,go,mongodb,nginx,postman,redis,supabase,)](https://skillicons.dev)
+📍 Kuala Lumpur, Malaysia (remote, UTC+8)
+<br>
+📫 [shaoqingwong@gmail.com](mailto:shaoqingwong@gmail.com) · [LinkedIn](https://linkedin.com/in/wong-shao-qing) · [Portfolio](https://senzelhastowork.vercel.app)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0xsenzel&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=0xsenzel&theme=dark&hide_border=false)<br/>
+## Tech Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Languages**
+<br>
+[![Languages](https://skillicons.dev/icons?i=ts,go,py&theme=dark)](https://skillicons.dev)
 
----
-[![](https://visitcount.itsvg.in/api?id=0xsenzel&icon=0&color=0)](https://visitcount.itsvg.in)
+**Web & APIs**
+<br>
+[![Web](https://skillicons.dev/icons?i=react,nodejs,nestjs,graphql&theme=dark)](https://skillicons.dev)
+
+**Cloud & Data**
+<br>
+[![Cloud](https://skillicons.dev/icons?i=aws,azure,docker,postgres,mysql,redis&theme=dark)](https://skillicons.dev)
+
+**AI tooling**: MCP servers, Claude Code, Codex, hybrid retrieval (BM25 + embeddings), Ollama
+<br>
+**Engineering**: system design, microservices, test-driven development, CI/CD
+<br>
+**Tools**: Hygraph, Git, Datadog
+
+## Experience
+
+- **Software Engineer, EverestEngineering (client: SEEK)**, Apr 2026 to present. Lead engineering for SEEK Grad and Graduate Top 100. Built a Hygraph publishing workflow for editors and a standard analytics event interface with per-tool adapters.
+- **Software Engineer, Tencent**, Jan 2025 to Apr 2026. Owned AMS, Tencent's high-traffic marketing platform, with its auth and API services.
+- **Backend Engineer (RnD), Agmo Holdings Berhad**, Jun 2023 to Dec 2024. Built payment APIs and a reward-points microservice on Node.js, NestJS, PostgreSQL, Redis, AWS, and Azure.
+
+## Projects
+
+- **[Second Brain Runtime](https://github.com/0xSenzel/second-brain-runtime)** (Python, MCP, SQLite, Ollama, Docker): self-hosted memory service for Claude Code, Codex, and a Telegram agent. Fusing BM25 with local embeddings raised top-1 retrieval accuracy from 69% to 97%.
+- **[Subtok](https://github.com/0xSenzel/subtok)** (JavaScript, PWA, Vercel): plays saved TikTok collections as playlists. Shipped in 2 days as a web app plus two browser extensions.
+
+## GitHub Stats
+
+![Senzel's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xsenzel&theme=dark&count_private=true)
+![Senzel's GitHub streak](https://streak-stats.demolab.com/?user=0xsenzel&theme=dark)
