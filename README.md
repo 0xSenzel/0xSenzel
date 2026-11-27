@@ -1,10 +1,7 @@
 # Hi, I'm Shao Qing (Senzel) 👋
 
-Software engineer with 3+ years in full-stack development, now embedded with SEEK. I build AI agent tooling with MCP and backend services in TypeScript and Go. I'm open to Forward Deployed Engineer and AI Engineer roles.
+Software engineer with 3+ years in full-stack development. I build AI agent tooling with MCP and backend services in TypeScript and Go. I'm open to Forward Deployed Engineer and AI Engineer roles.
 
-📍 Kuala Lumpur, Malaysia (remote, UTC+8)
-<br>
-📫 [shaoqingwong@gmail.com](mailto:shaoqingwong@gmail.com) · [LinkedIn](https://linkedin.com/in/wong-shao-qing) · [Portfolio](https://senzelhastowork.vercel.app)
 
 ## Tech Stack
 
@@ -25,12 +22,6 @@ Software engineer with 3+ years in full-stack development, now embedded with SEE
 **Engineering**: system design, microservices, test-driven development, CI/CD
 <br>
 **Tools**: Hygraph, Git, Datadog
-
-## Experience
-
-- **Software Engineer, EverestEngineering (client: SEEK)**, Apr 2026 to present. Lead engineering for SEEK Grad and Graduate Top 100. Built a Hygraph publishing workflow for editors and a standard analytics event interface with per-tool adapters.
-- **Software Engineer, Tencent**, Jan 2025 to Apr 2026. Owned AMS, Tencent's high-traffic marketing platform, with its auth and API services.
-- **Backend Engineer (RnD), Agmo Holdings Berhad**, Jun 2023 to Dec 2024. Built payment APIs and a reward-points microservice on Node.js, NestJS, PostgreSQL, Redis, AWS, and Azure.
 
 ## Projects
 
